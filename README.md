@@ -1,7 +1,7 @@
 Hi 👋 My name is Junick Marco Aquino
 ====================================
 
-Software Engineer and An aspiring Web/Mobile Developer
+A Software Engineer and An aspiring Web/Mobile Developer
 ------------------------------------------------------
 
 I am currently a software engineer in FinTech industry. I'm trying to transition into Web and Mobile Development.
