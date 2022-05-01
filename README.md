@@ -9,7 +9,7 @@ I am currently a software engineer in FinTech industry. I'm trying to transition
 * 🌍  I'm based in Manila, Philippines
 * ✉️  You can contact me at [junickaquino@gmail.com](mailto:junickaquino@gmail.com)
 * 🧠  I'm learning ReactJS, Javascript, NodeJS, Blockchain technology/Web3
-* 🤝  I'm open to collaborating on small projects that a newbie like me could join and offer help!
+* 🤝  I'm open to collaborating on small projects for web/mobile that a newbie like me could join and offer help!
 
 ### Skills
 
